@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Hello world! hot-fix");
         System.out.println("version 2.0.0");
         String n = "补丁";
+        System.out.println("push github");
     }
 }
