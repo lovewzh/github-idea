@@ -8,5 +8,6 @@ public class Main {
         System.out.println("version 2.0.0");
         String n = "补丁";
         System.out.println("push github");
+         System.out.println("pull from github");
     }
 }
